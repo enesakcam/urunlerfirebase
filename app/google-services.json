@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991812017526",
+    "project_id": "urunlerfirebase-d551f",
+    "storage_bucket": "urunlerfirebase-d551f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991812017526:android:e4405c7d69fbe07ecb2e57",
+        "android_client_info": {
+          "package_name": "tr.com.enesakcam.urunlerfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQXrMlhc-K-Yrn0sZk6gjgl6hq8DYa_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
